@@ -3,6 +3,6 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>Hello World RKamisetti. This is wonderful! This is my first Jenkins PHP200 page using OpenShift Online</p>'; ?> 
+ <?php echo '<p>Welcome RKamisetti. This is wonderful! This is my first Jenkins PHP200 page using OpenShift Online</p>'; ?> 
  </body>
 </html>
